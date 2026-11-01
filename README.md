@@ -26,11 +26,3 @@ Make sure these libraries are installed in your Python environment before runnin
 ### **Usage**
 Run the executable and follow the on-screen instructions to generate your unique melodies.
 
-### **Future Improvements**
-- Enhanced melody logic for better musicality.
-- Predefined templates for melody generation.
-
-Feel free to contribute or suggest improvements!
-
-🎧 *Happy composing!* 🎹✨
-
